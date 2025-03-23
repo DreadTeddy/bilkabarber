@@ -1,0 +1,7 @@
+
+body{
+    background-color:#d2fff7;
+}
+main {
+    padding-top: 70px; /* Додає відступ, щоб контент не перекривався хедером */
+}
